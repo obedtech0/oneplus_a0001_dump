@@ -1,0 +1,19 @@
+## bacon-user 6.0.1 MHC19Q ZNH2KAS1KN release-keys
+- Manufacturer: oneplus
+- Platform: msm8974
+- Codename: A0001
+- Brand: oneplus
+- Flavor: du_bacon-userdebug
+- Release Version: 7.1.2
+- Kernel Version: 3.4.113
+- Id: NHG47L
+- Incremental: eng.cmbuil.20170512.185353
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: 480
+- Fingerprint: oneplus/bacon/A0001:6.0.1/MHC19Q/ZNH2KAS1KN:user/release-keys
+- OTA version: 
+- Branch: bacon-user-6.0.1-MHC19Q-ZNH2KAS1KN-release-keys
+- Repo: oneplus_a0001_dump
